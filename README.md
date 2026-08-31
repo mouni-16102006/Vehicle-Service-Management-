@@ -68,8 +68,6 @@ graph LR
 ```text
 .
 ├── README.md                                  # Comprehensive Project Documentation
-├── docs/
-│   └── VehicleService_Project_Submission.docx # Official NIP Submission Document
 └── screenshots/
     ├── US-001_Submit_Request.png
     ├── US-002_Perform_Inspection.png
